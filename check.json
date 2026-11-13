@@ -1,12 +1,12 @@
 {
   "app_id": "toolbox",
-  "global_enabled": false,
+  "global_enabled": true,
   "latest_version": "2.0",
   "message": "aaaaaaaa",
-  "unknown_versions_enabled": false,
+  "unknown_versions_enabled": true,
   "versions": {
     "2.0": {
-      "enabled": false,
+      "enabled": true,
       "message": "hhhhhh"
     }
   }
