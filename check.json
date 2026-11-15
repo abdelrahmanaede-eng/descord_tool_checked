@@ -6,7 +6,7 @@
   "unknown_versions_enabled": true,
   "versions": {
     "2.0": {
-      "enabled": false,
+      "enabled": True,
       "message": "Call me Abdo Alaa 01114493323"
     }
   }
