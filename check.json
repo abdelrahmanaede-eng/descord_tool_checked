@@ -1,13 +1,17 @@
 {
   "app_id": "toolbox",
   "global_enabled": true,
-  "latest_version": "2.0",
+  "latest_version": "3.0",
   "message": "aaaaaaaa",
   "unknown_versions_enabled": true,
   "versions": {
     "2.0": {
+      "enabled": false,
+      "message": "This version is no longer supported - use A2Z 3.0."
+    },
+    "3.0": {
       "enabled": true,
-      "message": "Devolpe by Abdelrahman Alaa management by A2Z "
+      "message": ""
     }
   }
 }
