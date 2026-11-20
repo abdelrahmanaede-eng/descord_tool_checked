@@ -1,17 +1,21 @@
 {
   "app_id": "toolbox",
   "global_enabled": true,
-  "latest_version": "3.0",
-  "message": "aaaaaaaa",
+  "latest_version": "4.0",
+  "message": "This version is no longer supported - use A2Z 3.0",
   "unknown_versions_enabled": false,
   "versions": {
     "2.0": {
       "enabled": false,
-      "message": "This version is no longer supported - use A2Z 3.0."
+      "message": "This version is no longer supported - use A2Z 4.0."
     },
     "3.0": {
+      "enabled": false,
+      "message": "This version is no longer supported - use A2Z 3.0"
+    },
+    "4.0": {
       "enabled": true,
-      "message": ""
+      "message": "Hi"
     }
   }
 }
