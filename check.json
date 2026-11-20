@@ -3,7 +3,7 @@
   "global_enabled": true,
   "latest_version": "3.0",
   "message": "aaaaaaaa",
-  "unknown_versions_enabled": true,
+  "unknown_versions_enabled": false,
   "versions": {
     "2.0": {
       "enabled": false,
