@@ -1,6 +1,6 @@
 {
   "app_id": "toolbox",
-  "global_enabled": true,
+  "global_enabled": false,
   "latest_version": "6.0",
   "message": "Abdo Alaa",
   "unknown_versions_enabled": false,
