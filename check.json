@@ -5,7 +5,7 @@
   "message": "Abdo Alaa",
   "unknown_versions_enabled": false,
   "versions": {
-    "5.0": {
+    "6.0": {
       "enabled": true,
       "message": "hi"
     }
