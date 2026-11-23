@@ -1,25 +1,13 @@
 {
   "app_id": "toolbox",
-  "global_enabled": true,
-  "latest_version": "5.0",
-  "message": "",
+  "global_enabled": false,
+  "latest_version": "6.0",
+  "message": "Abdo Alaa",
   "unknown_versions_enabled": false,
   "versions": {
-    "2.0": {
-      "enabled": false,
-      "message": "This version is no longer supported - use A2Z 5.0."
-    },
-    "3.0": {
-      "enabled": false,
-      "message": "This version is no longer supported - use A2Z 5.0."
-    },
-    "4.0": {
-      "enabled": false,
-      "message": "This version is no longer supported - use A2Z 5.0."
-    },
     "5.0": {
       "enabled": true,
-      "message": ""
+      "message": "hi"
     }
   }
 }
